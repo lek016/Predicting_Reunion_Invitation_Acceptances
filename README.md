@@ -26,5 +26,5 @@ Copy code
 
 - `app.py` – The main Streamlit app
 - `XGmodel_top5.pkl` – Saved model
-- `requirements.txt` – Python dependencies
+- `requirements.txt` – Python tools
 - `README.md` – This file
