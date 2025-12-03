@@ -1,8 +1,6 @@
-# 🎈Invitation Acceptance Prediction Streamlit App
+# Invitation Acceptance Prediction Streamlit App
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictingreunioninvitationacceptances-gffvehuhujoddu4dk4b7qt.streamlit.app/](https://predictingreunioninvitationacceptances-gffvehuhujoddu4dk4b7qt.streamlit.app/))
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictingreunioninvitationacceptances-gffvehuhujoddu4dk4b7qt.streamlit.app/)
 
 ---
 
