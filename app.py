@@ -6,7 +6,7 @@ model = joblib.load("XGmodel_top5.pkl")
 
 st.set_page_config(page_title="🎉 Reunion Prediction App", layout="centered")
 
-st.image("Bucknell.jpeg", caption="Bucknell University", use_column_width=True)
+st.image("Bucknell.jpeg", use_column_width=True)
 
 # Title
 st.title("XGBoost Prediction App")
